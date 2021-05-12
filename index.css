@@ -1,0 +1,51 @@
+.bg{
+    background-color: #C0C0C0;
+}
+.panelBody{
+    padding: 15px ;
+    background-color: black ;
+    border-radius: 15px ;
+    width: 400px !important;
+
+    box-shadow: 0px 0px 20px  #282828  !important;
+}
+.rowPad{
+    padding: 5px; 
+    margin-top: 2rem;
+}
+.inputCss{
+    font-size: 12pt !important;
+    text-align: right !important;
+    height: 50px;
+    color:rgba(0, 0, 0) !important;
+    
+}
+.resultCss{
+    font-size: 15pt !important;
+    text-align: right !important;
+    font-weight: bold !important;
+    color:rgba(0, 0, 0,0.5) !important;
+    margin-top: 1rem;
+}
+.heading{
+    color: #ffffff ;
+}
+.es{
+    color: #27B627 ;
+}
+button{
+    width: 50px;
+    height: 50px;
+    margin-top: 5rem;
+    background-color:white;
+    
+}
+.name{
+    width: 80%;
+
+}
+.name p {
+    float: left;
+    color: white;
+    font-size: 25px;
+}
